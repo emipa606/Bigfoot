@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <Bigfoot.label>bigfoot</Bigfoot.label>
   <Bigfoot.description>Heavily-muscled humanoid creatures. Scientists denied the existence of such creatures in the past, claiming them to be nothing more than myth... But now they can be found on most Rimworlds. How? Who the hell knows, most people tend to shoot them instead of ask them questions anyway.</Bigfoot.description>
   <Bigfoot.tools.0.label>left claw</Bigfoot.tools.0.label>
   <Bigfoot.tools.1.label>right claw</Bigfoot.tools.1.label>
   <Bigfoot.tools.3.label>head</Bigfoot.tools.3.label>
-
-
 </LanguageData>
