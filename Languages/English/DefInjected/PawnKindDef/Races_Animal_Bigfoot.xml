@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Bigfoot.label>bigfoot</Bigfoot.label>
+  <Bigfoot.labelPlural>bigfoots</Bigfoot.labelPlural>
+  <Bigfoot.lifeStages.0.label>bigfoot child</Bigfoot.lifeStages.0.label>
+  <Bigfoot.lifeStages.0.labelPlural>bigfoot children</Bigfoot.lifeStages.0.labelPlural>
+  <Bigfoot.lifeStages.0.labelMale>male bigfoot child</Bigfoot.lifeStages.0.labelMale>
+  <Bigfoot.lifeStages.0.labelMalePlural>male bigfoot children</Bigfoot.lifeStages.0.labelMalePlural>
+  <Bigfoot.lifeStages.0.labelFemale>female bigfoot child</Bigfoot.lifeStages.0.labelFemale>
+  <Bigfoot.lifeStages.0.labelFemalePlural>female bigfoot children</Bigfoot.lifeStages.0.labelFemalePlural>
+  <Bigfoot.lifeStages.1.label>bigfoot</Bigfoot.lifeStages.1.label>
+  <Bigfoot.lifeStages.1.labelPlural>bigfoot</Bigfoot.lifeStages.1.labelPlural>
+  <Bigfoot.lifeStages.1.labelMale>male bigfoot</Bigfoot.lifeStages.1.labelMale>
+  <Bigfoot.lifeStages.1.labelMalePlural>male bigfoots</Bigfoot.lifeStages.1.labelMalePlural>
+  <Bigfoot.lifeStages.1.labelFemale>female bigfoot</Bigfoot.lifeStages.1.labelFemale>
+  <Bigfoot.lifeStages.1.labelFemalePlural>female bigfoots</Bigfoot.lifeStages.1.labelFemalePlural>
+  <Bigfoot.lifeStages.2.label>bigfoot</Bigfoot.lifeStages.2.label>
+  <Bigfoot.lifeStages.2.labelPlural>bigfoot</Bigfoot.lifeStages.2.labelPlural>
+  <Bigfoot.lifeStages.2.labelMale>male bigfoot</Bigfoot.lifeStages.2.labelMale>
+  <Bigfoot.lifeStages.2.labelMalePlural>male bigfoots</Bigfoot.lifeStages.2.labelMalePlural>
+  <Bigfoot.lifeStages.2.labelFemale>female bigfoot</Bigfoot.lifeStages.2.labelFemale>
+  <Bigfoot.lifeStages.2.labelFemalePlural>female bigfoots</Bigfoot.lifeStages.2.labelFemalePlural>
+  <Bigfoot.labelMale>male bigfoot</Bigfoot.labelMale>
+  <Bigfoot.labelMalePlural>male bigfoots</Bigfoot.labelMalePlural>
+  <Bigfoot.labelFemale>female bigfoot</Bigfoot.labelFemale>
+  <Bigfoot.labelFemalePlural>female bigfoots</Bigfoot.labelFemalePlural>
+</LanguageData>
