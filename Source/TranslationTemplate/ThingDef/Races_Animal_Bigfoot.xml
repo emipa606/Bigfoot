@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bigfoot -->
+  <Bigfoot.label>bigfoot</Bigfoot.label>
+  <!-- EN: Heavily-muscled humanoid creatures. Scientists denied the existence of such creatures in the past, claiming them to be nothing more than myth... But now they can be found on most Rimworlds. How? Who the hell knows, most people tend to shoot them instead of ask them questions anyway. -->
+  <Bigfoot.description>Heavily-muscled humanoid creatures. Scientists denied the existence of such creatures in the past, claiming them to be nothing more than myth... But now they can be found on most Rimworlds. How? Who the hell knows, most people tend to shoot them instead of ask them questions anyway.</Bigfoot.description>
+  <!-- EN: left claw -->
+  <Bigfoot.tools.left_claw.label>left claw</Bigfoot.tools.left_claw.label>
+  <!-- EN: right claw -->
+  <Bigfoot.tools.right_claw.label>right claw</Bigfoot.tools.right_claw.label>
+  <!-- EN: head -->
+  <Bigfoot.tools.head.label>head</Bigfoot.tools.head.label>
+</LanguageData>

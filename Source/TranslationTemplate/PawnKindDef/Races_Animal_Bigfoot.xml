@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: bigfoot -->
+  <Bigfoot.label>bigfoot</Bigfoot.label>
+  <Bigfoot.labelFemale />
+  <Bigfoot.labelFemalePlural />
+  <Bigfoot.labelMale />
+  <Bigfoot.labelMalePlural />
+  <Bigfoot.labelPlural />
+  <!-- EN: bigfoot child -->
+  <Bigfoot.lifeStages.bigfoot_child.label>bigfoot child</Bigfoot.lifeStages.bigfoot_child.label>
+  <Bigfoot.lifeStages.bigfoot_child.labelFemale />
+  <Bigfoot.lifeStages.bigfoot_child.labelFemalePlural />
+  <Bigfoot.lifeStages.bigfoot_child.labelMale />
+  <Bigfoot.lifeStages.bigfoot_child.labelMalePlural />
+  <!-- EN: bigfoot children -->
+  <Bigfoot.lifeStages.bigfoot_child.labelPlural>bigfoot children</Bigfoot.lifeStages.bigfoot_child.labelPlural>
+  <Bigfoot.lifeStages.1.label />
+  <Bigfoot.lifeStages.1.labelFemale />
+  <Bigfoot.lifeStages.1.labelFemalePlural />
+  <Bigfoot.lifeStages.1.labelMale />
+  <Bigfoot.lifeStages.1.labelMalePlural />
+  <Bigfoot.lifeStages.1.labelPlural />
+  <Bigfoot.lifeStages.2.label />
+  <Bigfoot.lifeStages.2.labelFemale />
+  <Bigfoot.lifeStages.2.labelFemalePlural />
+  <Bigfoot.lifeStages.2.labelMale />
+  <Bigfoot.lifeStages.2.labelMalePlural />
+  <Bigfoot.lifeStages.2.labelPlural />
+</LanguageData>

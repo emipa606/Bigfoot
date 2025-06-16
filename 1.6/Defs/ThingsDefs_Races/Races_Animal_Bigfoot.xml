@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="AnimalThingBase">
     <defName>Bigfoot</defName>
@@ -8,6 +8,7 @@
       <MoveSpeed>5.00</MoveSpeed>
       <ComfyTemperatureMin>-65</ComfyTemperatureMin>
       <MarketValue>850</MarketValue>
+      <Wildness>0.80</Wildness>
     </statBases>
     <tools>
       <li>
@@ -83,7 +84,6 @@
       <gestationPeriodDays>22.5</gestationPeriodDays>
       <nameOnTameChance>1</nameOnTameChance>
       <trainability>Advanced</trainability>
-      <wildness>0.80</wildness>
       <manhunterOnDamageChance>1</manhunterOnDamageChance>
       <manhunterOnTameFailChance>0.018</manhunterOnTameFailChance>
       <nuzzleMtbHours>120</nuzzleMtbHours>
